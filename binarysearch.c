@@ -16,7 +16,7 @@ int main()
     { 
         mid=(low+high)/2;
         if(a[mid]==key) 
-        {
+        { 
             loc=mid;
             break;
         }
