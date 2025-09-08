@@ -7,7 +7,7 @@ int isPrime(int num) {
     }
     return 1;
 }
-
+ 
 int main() {
     int num;
     printf("Enter a number: ");
