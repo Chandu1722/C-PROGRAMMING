@@ -11,7 +11,7 @@ int main()
     printf("enter the key element");
     scanf("%d",&key);
     low=0;
-    high=n-1;
+    high=n-1; 
     while(low<high)
     { 
         mid=(low+high)/2;
@@ -31,3 +31,4 @@ int main()
         printf("key found at %d",loc);
     return 0;
 }
+
