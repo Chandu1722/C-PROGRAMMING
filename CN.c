@@ -15,7 +15,7 @@ void errExit(char *str) {
     puts(str);
     exit(0);
 }
-
+ 
 int main() {
     unsigned long t;
     int sockfd, n;
