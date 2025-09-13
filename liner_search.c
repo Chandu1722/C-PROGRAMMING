@@ -16,7 +16,7 @@ int main()
     int index=linearsearch(arr,n,key);
     if(index!=-1)
         printf("key found at index  %d",index);
-    else
+    else 
         printf("key not found");
   return 0;
 }
